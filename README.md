@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Backend Development and Cloud Computing
+🌱 I’m currently learning Machine Learning and Cloud Computing
 
 
 ## 🌐 Socials:
